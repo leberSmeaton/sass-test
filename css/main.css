@@ -1,0 +1,64 @@
+p {
+  color: green;
+}
+
+body {
+  text-align: center;
+}
+
+section {
+  background-color: gray;
+}
+section h1 {
+  font-size: 60px;
+}
+section h1:hover {
+  color: green;
+}
+section p {
+  font-style: italic;
+}
+section p span {
+  color: red;
+}
+
+body {
+  font-size: 40px;
+}
+
+header h1 {
+  font-size: 50px;
+  padding: 30px;
+  color: orange;
+  border: 1px dotted yellow;
+  border-radius: 5px;
+}
+
+footer p {
+  font-size: 50px;
+  padding: 30px;
+  color: green;
+  border: 1px dotted yellow;
+  border-radius: 5px;
+}
+
+.warning, .error, .success {
+  border: 2px solid black;
+  font-size: 30px;
+  font-style: italic;
+  background-color: lightgoldenrodyellow;
+}
+
+.success {
+  color: green;
+}
+
+.error {
+  color: red;
+}
+
+.warning {
+  color: orange;
+}
+
+/*# sourceMappingURL=main.css.map */
